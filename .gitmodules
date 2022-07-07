@@ -1,0 +1,12 @@
+[submodule "asa"]
+	path = asa
+	url = ssh://aur@aur.archlinux.org/asa.git
+[submodule "ttf-roboto-flex-git"]
+	path = ttf-roboto-flex-git
+	url = ssh://aur@aur.archlinux.org/ttf-roboto-flex-git.git
+[submodule "wl-gammarelay-rs"]
+	path = wl-gammarelay-rs
+	url = ssh://aur@aur.archlinux.org/wl-gammarelay-rs.git
+[submodule "castlequest-git"]
+	path = castlequest-git
+	url = ssh://aur@aur.archlinux.org/castlequest-git.git
