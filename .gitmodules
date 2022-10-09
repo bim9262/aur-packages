@@ -10,3 +10,6 @@
 [submodule "castlequest-git"]
 	path = castlequest-git
 	url = ssh://aur@aur.archlinux.org/castlequest-git.git
+[submodule "sway-i3-style-fullscreen-git"]
+	path = sway-i3-style-fullscreen-git
+	url = ssh://aur@aur.archlinux.org/sway-i3-style-fullscreen-git.git
