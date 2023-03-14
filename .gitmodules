@@ -10,3 +10,6 @@
 [submodule "sway-i3-style-fullscreen-git"]
 	path = sway-i3-style-fullscreen-git
 	url = ssh://aur@aur.archlinux.org/sway-i3-style-fullscreen-git.git
+[submodule "i3status-rust-git"]
+	path = i3status-rust-git
+	url = ssh://aur@aur.archlinux.org/i3status-rust-git.git
